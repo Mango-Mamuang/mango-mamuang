@@ -12,7 +12,7 @@ An interactive 2D arcade game built as a developer portfolio.
 Instead of a static list of links, visitors walk through a pixel 
 art arcade and interact with machines tied to my real projects.
 
-[▶ Play it here](https://mango-mamuang.github.io)
+[▶ Play it here](https://anas-arcade.vercel.app)
 
 ### Built with
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
