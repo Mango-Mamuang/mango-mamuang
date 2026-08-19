@@ -15,11 +15,12 @@ art arcade and interact with machines tied to my real projects.
 [▶ Play it here](https://anas-arcade.vercel.app)
 
 ### Built with
-
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Phaser](https://img.shields.io/badge/Phaser_3-blue?style=flat)](https://phaser.io)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ### Features
 - 4 arcade machines representing real projects
