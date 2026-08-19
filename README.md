@@ -1,34 +1,73 @@
-## Game Portfolio
+# Hi, I'm Ana 👾
 
-<!--
-**Mango-Mamuang/mango-mamuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Ana's Arcade is a 2D top-down arcade game built to showcase my programming portfolio in an interactive way, instead of a static list of links. Built with React, Phaser 3, and Vite, the game lets visitors walk through an arcade and interact with project machines tied to my actual work, including systems programming, game development, and machine learning projects.
-
-#### The world includes NPC characters, a day/night cycle, dynamic weather effects like rain, a gift shop, and a phone booth that opens a contact panel, all built to make exploring my work feel less like reading a resume and more like playing a small game.
+I'm a CS graduate passionate about building things at 
+the intersection of systems programming and creative development.
 
 
-### License
+---
 
-#### Copyright (c) 2026 Ana T. Sanchez
+## 🎮 Ana's Arcade
 
-All Rights Reserved.
+An interactive 2D arcade game built as a developer portfolio. 
+Instead of a static list of links, visitors walk through a pixel 
+art arcade and interact with machines tied to my real projects.
 
-This repository and its contents (including but not limited to source code, assets, designs, and documentation) are the property of the author. No part of this project may be copied, modified, distributed, or used in any form, in whole or in part, without the author's prior written permission.
+[▶ Play it here](https://mango-mamuang.github.io)
 
-Permission to use, copy, or modify any portion of this project may be requested by contacting the author directly. If permission is granted, the author must be credited clearly in any resulting use, including a link back to the original repository where applicable.
+### Built with
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Phaser](https://img.shields.io/badge/Phaser_3-blue?style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Viewing this repository and its code for personal reference or evaluation (such as for recruiting or hiring purposes) is permitted. Reuse, redistribution, or incorporation into other projects is not permitted without explicit permission as described above.
+### Features
+- 4 arcade machines representing real projects
+- Day/night cycle synced to the viewer's local time
+- Dynamic rain effects
+- Token system with a gift shop
 
-Contact: mamuang.mango@proton.me
+
+---
+
+## 🛠️ Skills
+
+**Languages**
+`C` `C++` `C#` `Python` `Ruby` `Assembly x86` `Rust` `Java` `JavaScript`
+
+**Web & Mobile**
+`React` `Phaser 3` `HTML` `CSS` `Flutter`
+
+**Tools & Platforms**
+`Git` `GitHub` `Vite` `Unity` `Azure` `Vim` `Linux/Unix` `Jira`
+
+**Languages spoken**
+`English` `Spanish`
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mango-mamuang/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mamuang.mango@proton.me)
+
+---
+
+## License
+
+© 2026 Ana T. Sanchez. All Rights Reserved.
+
+Publicly visible for viewing and portfolio evaluation only.
+No part of this project may be copied, modified, or distributed
+without explicit written permission from the author and proper credit.
+
+### Academic Reports & Documentation
+
+The reports included in this repository are original academic work 
+authored solely by Ana T. Sanchez. These documents may not be:
+
+- Copied, reproduced, or submitted as your own work
+- Used in whole or in part without explicit written permission
+- Modified or redistributed in any form
+
+Plagiarism of any report or written content in this repository 
+is a violation of academic integrity and copyright law.
